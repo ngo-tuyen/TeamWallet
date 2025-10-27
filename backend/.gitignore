@@ -2,7 +2,7 @@
 /node_modules
 
 # environment files
-backend/.env
+.env
 
 # build artifacts
 /frontend/build
