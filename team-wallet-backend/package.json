@@ -1,0 +1,32 @@
+{
+  "name": "team-wallet-backend",
+  "version": "1.0.0",
+  "description": "Team Wallet - Multi-tenant Finance Management API",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "db:init": "node scripts/init-db.js"
+  },
+  "keywords": [
+    "team",
+    "wallet",
+    "finance",
+    "management"
+  ],
+  "author": "Team Wallet",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "^3.6.5",
+    "nodemailer": "^6.9.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
