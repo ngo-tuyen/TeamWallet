@@ -10,8 +10,8 @@
 
 1. **リポジトリをクローン**
 ```bash
-git clone https://github.com/ngo-tuyen/TeamWallet/team-wallet-frontend.git
-cd team-wallet-frontend
+git clone https://github.com/ngo-tuyen/TeamWallet.git
+cd TeamWallet/team-wallet-frontend
 ```
 
 2. **依存パッケージをインストール**

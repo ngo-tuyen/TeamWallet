@@ -13,8 +13,8 @@
 
 1. **リポジトリをクローン**
 ```bash
-git clone https://github.com/ngo-tuyen/TeamWallet/team-wallet-backend.git
-cd team-wallet-backend
+git clone https://github.com/ngo-tuyen/TeamWallet.git
+cd TeamWallet/team-wallet-backend
 ```
 
 2. **依存パッケージをインストール**
